@@ -17,12 +17,7 @@ I am a student of Systems Analysis and Development, I love this area of ​​te
 
 ## My Skills:
 
-<img align="center"  alt="HTML5"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"  style="max-width: 100%;">
-<img align="center"  alt="HTML5"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"  style="max-width: 100%;">
-<img align="center"  alt="HTML5"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  style="max-width: 100%;">
-<img align="center"  alt="HTML5"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="max-width: 100%;">
-<img align="center"  alt="HTML5"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"  style="max-width: 100%;">
-<img align="center"  alt="HTML5"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  style="max-width: 100%;">
+<img align="center"  alt="HTML5"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"  style="max-width: 100%;"> <img align="center"  alt="HTML5"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"  style="max-width: 100%;"> <img align="center"  alt="HTML5"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  style="max-width: 100%;"> <img align="center"  alt="HTML5"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="max-width: 100%;"> <img align="center"  alt="HTML5"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"  style="max-width: 100%;"> <img align="center"  alt="HTML5"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  style="max-width: 100%;">
 <img align="center"  alt="HTML5"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  style="max-width: 100%;">
 
 
