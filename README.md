@@ -31,7 +31,9 @@ I am a student of Systems Analysis and Development, I love this area of ​​te
 <img align="center"  alt="SQL Server"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"  style="max-width: 100%;"></a>
 <a href="https://certificates.digitalinnovation.one/C7D7A086" target="_blank">
 <img align="center"  alt="Bootstrap"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="max-width: 100%;"></a>  <a href="https://certificates.digitalinnovation.one/4E88D88C" target="_blank">
-<img align="center"  alt="CSS"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"  style="max-width: 100%;"> </a>
+<img align="center"  alt="CSS"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"  style="max-width: 100%;"> </a><a href="https://certificates.digitalinnovation.one/C7D7A086" target="_blank">
+<img align="center"  alt="Bootstrap"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="max-width: 100%;"></a><a href="https://certificates.digitalinnovation.one/A92EEA8D" target="_blank">
+<img align="center"  alt="dotnet"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"  style="max-width: 100%;"></a>
 
 ## Status
 
