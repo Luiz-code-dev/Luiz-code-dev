@@ -3,7 +3,17 @@
 
 # I'm Luiz Eduardo
 
-I am a student of Systems Analysis and Development, I love this area of ​​technology, I love to learn and I like to share knowledge too, I am 28 years old and I am a boy father: D, married and I love my family is the basis of all my effort on this long journey
+Student of Systems Analysis and Development. Knowledge in C#, Spring Boot, Web Services, Hibernate.
+I have skills with the JAVA programming language, knowledge in creating forms, reports, developing flowcharts; consumption, creation and documentation of Rest API's. Skills with web development, using HTML, CSS and Javascript.
+
+Knowledge:
+• Structured Programming;
+• Programming logic;
+• MySQL, SQLServer, PostgreSQL database;
+• Java, Angular;
+• Object Oriented Programming;
+• Design Patterns – Solid knowledge in using the main patterns;
+• Git, GitLab, GitHub;
 
 
 
@@ -15,24 +25,6 @@ I am a student of Systems Analysis and Development, I love this area of ​​te
 <img align="center"  alt="Instagram"  width="40"  height="30"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  style="max-width: 100%;">
 </a>
 
-## My Skills:
-
-<img align="center"  alt="HTML5"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"  style="max-width: 100%;"> <img align="center"  alt="HTML5"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"  style="max-width: 100%;"> <img align="center"  alt="HTML5"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  style="max-width: 100%;"> <img align="center"  alt="HTML5"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="max-width: 100%;"> <img align="center"  alt="HTML5"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"  style="max-width: 100%;"> <img align="center"  alt="HTML5"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  style="max-width: 100%;">
-<img align="center"  alt="HTML5"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  style="max-width: 100%;">
-
-
-
-## My certificates:
-
-<a href="https://certificates.digitalinnovation.one/5713EE9A" target="_blank"> 
-<img align="center"  alt="HTML"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  style="max-width: 100%;"></a> <a href="https://www.devmedia.com.br/certificado/tecnologia/css/luiz-eduardo-55" target="_blank">
-<img align="center"  alt="CSS"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  style="max-width: 100%;"></a>
-<a href="https://www.devmedia.com.br/certificado/tecnologia/sql-server/luiz-eduardo-55" target="_blank">
-<img align="center"  alt="SQL Server"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"  style="max-width: 100%;"></a>
-<a href="https://certificates.digitalinnovation.one/C7D7A086" target="_blank">
-<img align="center"  alt="Bootstrap"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="max-width: 100%;"></a>  <a href="https://certificates.digitalinnovation.one/4E88D88C" target="_blank">
-<img align="center"  alt="CSS"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"  style="max-width: 100%;"> </a><a href="https://certificates.digitalinnovation.one/A92EEA8D" target="_blank">
-<img align="center"  alt="dotnet"  width="40"  height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"  style="max-width: 100%;"></a>
 
 ## Status
 
