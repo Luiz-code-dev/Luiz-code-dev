@@ -13,7 +13,7 @@ Knowledge:
 • Java, Angular;
 • Object Oriented Programming;
 • Design Patterns – Solid knowledge in using the main patterns;
-• Git, GitLab, GitHub;
+• Git, GitLab, GitHub.
 
 
 
