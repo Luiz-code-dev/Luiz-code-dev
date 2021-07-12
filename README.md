@@ -4,13 +4,13 @@
 # I'm Luiz Eduardo
 
 Student of Systems Analysis and Development. Knowledge in C#, Spring Boot, Web Services, Hibernate.
-I have skills with the JAVA programming language, knowledge in creating forms, reports, developing flowcharts; consumption, creation and documentation of Rest API's. Skills with web development, using HTML, CSS and Javascript.
+I have skills with the JAVA programming language, knowledge in creating forms, reports, developing flowcharts; consumption, creation and documentation of Rest API's. Skills with web development, using HTML, CSS, Javascript and TypeScript.
 
 Knowledge:
 • Structured Programming;
 • Programming logic;
 • MySQL, SQLServer, PostgreSQL database;
-• Java, Angular;
+• Java, Angular 8;
 • Object Oriented Programming;
 • Design Patterns – Solid knowledge in using the main patterns;
 • Git, GitLab, GitHub.
