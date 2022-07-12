@@ -3,7 +3,7 @@
 
 # I'm Luiz Eduardo
 
-Student of Systems Analysis and Development. Knowledge in C#, Spring Boot, Web Services, Hibernate.
+graduated in Systems Analysis and Development. Knowledge in JAVA Spring Boot, Web Services, Hibernate, Maven, Microservices.
 I have skills with the JAVA programming language, knowledge in  creation and documentation of Rest API's. Skills with web development, using HTML, CSS, Javascript and TypeScript.
 
 Knowledge:
