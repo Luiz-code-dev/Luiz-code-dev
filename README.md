@@ -3,17 +3,16 @@
 
 # I'm Luiz Eduardo
 
-graduated in Systems Analysis and Development. Knowledge in JAVA Spring Boot, Web Services, Hibernate, Maven, Microservices.
-I have skills with the JAVA programming language, knowledge in  creation and documentation of Rest API's. Skills with web development, using HTML, CSS, Javascript and TypeScript.
+Graduated in Software Engineering, Skills with the JAVA programming language, knowledge in creating forms, reports; consumption, creation of API's Rest. Skills with web development, using HTML, CSS, Javascript, Angular JS and 2+, automated tests with Cucumbe, WebSphere RAD9, java microservices with spring boot;
 
 Knowledge:
-• Structured Programming;
-• Programming logic;
-• MySQL, SQLServer, PostgreSQL database;
-• Java, Angular 8;
 • Object Oriented Programming;
-• Design Patterns – Solid knowledge in using the main patterns;
-• Git, GitLab, GitHub.
+• Structured Programming;
+•	Programming logic;
+• Design Patterns, SOA Architecture, MVC
+• Database MySQL, SQLServer, PostgreSQL;
+• Java, SpringBoot, Primefaces, Hibernet, Maven,
+• Git, GitLab, GitHub;
 
 
 
