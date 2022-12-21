@@ -20,7 +20,7 @@ Knowledge:
 
 <a href="https://www.linkedin.com/in/luiz-eduardo-270204a3/"  target="_blank">
 <img align="center"  alt="Linkedin"  width="40"  height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"  style="max-width: 100%;"></a>
-<a href="https://www.instagram.com/luiz.dias.melo/"  target="_blank">
+<a href="https://www.instagram.com/luiz_melo_offc/"  target="_blank">
 <img align="center"  alt="Instagram"  width="40"  height="30"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  style="max-width: 100%;">
 </a>
 
