@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1020,50:1e1b4b,100:4f46e5&height=170&section=header&text=Luiz%20Eduardo%20Melo&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20Founder%20%26%20CEO%20%40%20Codevelop%20Solutions&descSize=17&descAlignY=68" width="100%" />
+<img src="./assets/header.svg" width="100%" alt="Luiz Eduardo Melo — Software Engineer · Founder & CEO @ Codevelop Solutions" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=818CF8&center=true&vCenter=true&width=760&lines=Arquiteto+plataformas+SaaS+multi-tenant+de+n%C3%ADvel+banc%C3%A1rio;Kotlin+%C2%B7+Spring+Boot+%C2%B7+Node.js+%C2%B7+React+%C2%B7+AWS;Sistemas+de+miss%C3%A3o+cr%C3%ADtica+para+bancos+e+governo;Produtos+com+IA+do+conceito+%C3%A0+produ%C3%A7%C3%A3o" alt="Typing SVG" />
 
@@ -119,8 +119,6 @@ flowchart LR
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Luiz-code-dev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0b1020&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-code-dev&layout=compact&langs_count=8&hide_border=true&bg_color=0b1020&title_color=818cf8&text_color=c9d1d9" />
 
 <img src="https://streak-stats.demolab.com/?user=Luiz-code-dev&hide_border=true&background=0b1020&ring=818cf8&fire=818cf8&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&locale=pt_BR" />
 
@@ -138,6 +136,5 @@ flowchart LR
 
 *Arquitetura limpa, código que se sustenta e sistemas que não caem.*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4f46e5,50:1e1b4b,100:0b1020&height=4&section=footer" width="100%" />
 
 </div>
