@@ -1,145 +1,143 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0f0b1e&height=180&section=header&text=Luiz%20Eduardo%20Melo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Especialista%20Full%20Stack%20S%C3%AAnior&descSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1020,50:1e1b4b,100:4f46e5&height=170&section=header&text=Luiz%20Eduardo%20Melo&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20Founder%20%26%20CEO%20%40%20Codevelop%20Solutions&descSize=17&descAlignY=68" width="100%" />
 
-<!-- Subtítulo dinâmico -->
-<a href="https://github.com/Luiz-code-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Angular+%E2%80%A2+AWS;Arquitetura+de+Microsservi%C3%A7os+%26+Clean+Architecture;Sistemas+de+Miss%C3%A3o+Cr%C3%ADtica+e+Alta+Disponibilidade;6%2B+anos+entregando+software+corporativo" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=818CF8&center=true&vCenter=true&width=760&lines=Arquiteto+plataformas+SaaS+multi-tenant+de+n%C3%ADvel+banc%C3%A1rio;Kotlin+%C2%B7+Spring+Boot+%C2%B7+Node.js+%C2%B7+React+%C2%B7+AWS;Sistemas+de+miss%C3%A3o+cr%C3%ADtica+para+bancos+e+governo;Produtos+com+IA+do+conceito+%C3%A0+produ%C3%A7%C3%A3o" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-eduardo-270204a3)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiz.dev.melo@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luiz-code-dev)
-![Profile Views](https://komarev.com/ghpvc/?username=Luiz-code-dev&style=for-the-badge&color=4f46e5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-eduardo-270204a3)
+[![Codevelop](https://img.shields.io/badge/cdsolutions.com.br-1e1b4b?style=flat-square&logo=googlechrome&logoColor=white)](https://www.cdsolutions.com.br)
+[![Email](https://img.shields.io/badge/luiz.melo@cdsolutions.com.br-4f46e5?style=flat-square&logo=maildotru&logoColor=white)](mailto:luiz.melo@cdsolutions.com.br)
+![Salvador](https://img.shields.io/badge/Salvador%20·%20BA%20·%20Brasil-0b1020?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 Sobre mim
+> **Eu transformo regras de negócio complexas em plataformas seguras, escaláveis e mensuráveis.**
+> Engenheiro de software há mais de 6 anos em sistemas de missão crítica para o setor financeiro e o setor público,
+> hoje lidero a **Codevelop Solutions** — software house e consultoria em cibersegurança — e construo produtos próprios
+> de SaaS e Inteligência Artificial, da arquitetura ao go-live.
 
-Especialista **Full Stack Sênior** com mais de **6 anos** concebendo, arquitetando e entregando sistemas de **missão crítica e alta disponibilidade** para instituições de grande porte — **MPPE, BACEN, Bradesco Seguros, PicPay** e órgãos governamentais.
+<br/>
 
-- 🏗️ Domínio de ponta a ponta do ciclo de desenvolvimento: **back-end Java/Spring Boot**, **APIs RESTful**, **microsserviços** e **front-end Angular**.
-- 🧩 Referência técnica em **Clean Architecture, SOLID, DDD, Clean Code** e **testes automatizados (TDD/BDD)**.
-- ☁️ Forte vivência em **Docker, AWS, OpenShift** e esteiras **GitLab CI/CD**.
-- 👥 Atuação em **liderança técnica**, revisões de código e definição de padrões de engenharia.
-- 🚀 Fundador da **Codevelop Solutions** e criador do **SpeakFlow** — produto de IA para profissionais brasileiros.
+## ◆ O que eu construo
 
----
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## 🛠️ Stack Tecnológica
+### 🏛️ SaaS B2B Multi-tenant
+Plataformas com **isolamento de dados por cliente**, controle de acesso hierárquico, auditoria completa e
+planos por capacidade — desenhadas para operar dados trabalhistas e financeiros sensíveis com **segurança de nível bancário**.
 
-#### Linguagens
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+</td>
+<td width="33%" valign="top">
 
-#### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+### 🏦 Missão Crítica
+Sistemas que não podem parar: **BACEN, Bradesco Seguros, PicPay, Banco do Nordeste, MPPE** e órgãos federais.
+Alta disponibilidade, processamento em larga escala, integrações e conformidade regulatória.
 
-#### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+</td>
+<td width="33%" valign="top">
 
-#### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![IBM DB2](https://img.shields.io/badge/DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🤖 Produtos com IA
+IA aplicada ao negócio — não demonstração. Assistentes especializados com base legal, trilhas de aprendizagem
+adaptativas e automações que reduzem trabalho operacional de verdade.
 
-#### Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+</td>
+</tr>
+</table>
 
-#### Testes & Observabilidade
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+## ◆ Princípios de engenharia
 
----
+| Pilar | Como eu aplico |
+|---|---|
+| 🔐 **Security by design** | Isolamento por tenant, WAF, MFA, menor privilégio, criptografia em trânsito e em repouso, trilha de auditoria e conformidade com a **LGPD** |
+| 🧪 **Qualidade não negociável** | Pipeline com **≥ 90% de cobertura**, testes unitários e de integração em toda entrega, code review obrigatório e branches protegidas |
+| 📐 **Arquitetura que envelhece bem** | Clean Architecture, DDD e SOLID — domínio independente de framework, infraestrutura substituível |
+| 📜 **Contratos primeiro** | APIs e BFF documentados em **OpenAPI/Swagger**, rotas rastreáveis e testáveis de ponta a ponta |
+| 📈 **Operação observável** | Logs estruturados, métricas, alertas e filas confiáveis — o sistema conta o que está acontecendo antes do cliente reclamar |
+| ⚙️ **Tudo automatizado** | CI/CD, infraestrutura como código e deploys reproduzíveis na **AWS** |
 
-## 🏢 Experiência em Destaque
+## ◆ Arquitetura de referência
 
-| Cliente / Projeto | Stack Principal | Atuação |
+Padrão que uso em plataformas SaaS que lidam com dados sensíveis:
+
+```mermaid
+flowchart LR
+    U([Usuários]) --> E[Route 53 · AWS WAF · Load Balancer]
+    E --> W[Web App<br/>React + TypeScript]
+    W --> B[BFF<br/>Node.js · OpenAPI]
+    B --> A[Core API<br/>Kotlin · Spring Boot]
+    A --> T[(Base por tenant<br/>PostgreSQL)]
+    A --> Q[[Mensageria]]
+    A --> C[(Cache)]
+    Q --> J[Workers<br/>e-mail · relatórios · IA]
+    A -.-> O[Observabilidade<br/>logs · métricas · alertas]
+```
+
+## ◆ Empreendimentos
+
+| | Produto | O que é |
 |---|---|---|
-| **MPPE** — Ministério Público de PE | Java • Spring Boot • Angular 12 • PostgreSQL • Docker | Sistemas de missão crítica, APIs seguras (JWT), Clean Architecture, GitLab CI/CD |
-| **BACEN** — Banco Central | Java • Spring Boot • DB2 • OpenShift | Ingestão e processamento de dados em larga escala, BDD com Cucumber |
-| **Bradesco Seguros** | Java EE • Spring Boot • JSF • Oracle • WebSphere | Transações de sinistros, integrações REST/SOAP, alta disponibilidade |
-| **PicPay** — Chargeback | Kotlin • Angular • AWS (Lambda, API Gateway, S3) | Sistemas financeiros críticos, observabilidade com Grafana/CloudWatch |
-| **SICAR (Gov. BA)** | Java • Spring Boot • JSF • PostgreSQL | Controle ambiental, dados georreferenciados, entregas containerizadas |
+| 💼 | **[Codevelop Solutions](https://www.cdsolutions.com.br)** | Software house e consultoria em cibersegurança — desenvolvimento sob medida, integração de sistemas, segurança de redes e cloud |
+| 🎙️ | **[SpeakFlow](https://www.speakflow.ia.br)** | Plataforma de IA para profissionais brasileiros que usam inglês no trabalho — web e mobile, software registrado no INPI |
+| 🎒 | **[SpeakFlow Escolas](https://www.speakflowescola.com.br)** | Reforço escolar com IA para o ensino fundamental, com acompanhamento dos responsáveis e arquitetura por rede de ensino |
+| 📊 | **SaaS de gestão trabalhista** *(em construção)* | Plataforma multi-tenant para escritórios contábeis: carteiras de clientes, rotinas de DP, BI gerencial, portal do cliente e IA especialista em direito do trabalho |
 
----
+## ◆ Trajetória
 
-## 🚀 Projetos em Destaque
+| Cliente | Domínio | Stack |
+|---|---|---|
+| **BACEN** — Banco Central do Brasil | Ingestão e processamento de dados em larga escala | Java · Spring Boot · DB2 · OpenShift · Cucumber |
+| **PicPay** — Chargeback | Sistemas financeiros críticos e observabilidade | Kotlin · Angular · AWS Lambda · API Gateway · S3 · Grafana |
+| **Bradesco Seguros** | Transações de sinistros e integrações corporativas | Java EE · Spring Boot · Oracle · WebSphere · REST/SOAP |
+| **Banco do Nordeste · FNDE** | Sistemas financeiros e de políticas públicas | Java · Spring Boot · Angular |
+| **MPPE** — Ministério Público de PE | Sistemas de missão crítica e APIs seguras | Java · Spring Boot · Angular · PostgreSQL · GitLab CI/CD |
+| **SICAR** — Governo da Bahia | Controle ambiental e dados georreferenciados | Java · Spring Boot · PostgreSQL · Docker |
 
-<div align="center">
+<sub>EBIX → CAST Group → Netra (ACP Group) → NTT DATA → G4F Soluções Corporativas</sub>
 
-[![SpeakFlow](https://img.shields.io/badge/🎙️_SpeakFlow-IA_para_inglês_no_trabalho-4f46e5?style=for-the-badge)](https://www.speakflow.ia.br)
-[![Codevelop](https://img.shields.io/badge/💻_Codevelop_Solutions-Software_%26_Cibersegurança-0f0b1e?style=for-the-badge)](https://www.codevelop.com.br)
-
-</div>
-
-**SpeakFlow** — Plataforma de produtividade com IA para profissionais brasileiros que usam inglês no dia a dia.
-`Next.js 14` · `React Native (Expo)` · `Spring Boot` · `Rust` · `PostgreSQL` · `OpenAI GPT-4o` · `Stripe`
-
----
-
-## 📊 GitHub Stats
+## ◆ Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Luiz-code-dev&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=4f46e5&icon_color=4f46e5" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-code-dev&layout=compact&hide_border=true&theme=tokyonight&title_color=4f46e5&langs_count=8" />
+**Back-end**<br/>
+<img src="https://skillicons.dev/icons?i=kotlin,java,spring,nodejs,ts,python,rust" />
 
-<br/>
+**Front-end & Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Luiz-code-dev&hide_border=true&theme=tokyonight&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Luiz-code-dev&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+**Dados, Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,aws,docker,githubactions,gitlab,grafana,linux" />
 
 </div>
 
----
+## ◆ Atividade
 
-## 🎓 Formação & Certificações
+<div align="center">
 
-- 🎯 Pós-graduação em **Engenharia de Software**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Luiz-code-dev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0b1020&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-code-dev&layout=compact&langs_count=8&hide_border=true&bg_color=0b1020&title_color=818cf8&text_color=c9d1d9" />
+
+<img src="https://streak-stats.demolab.com/?user=Luiz-code-dev&hide_border=true&background=0b1020&ring=818cf8&fire=818cf8&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&locale=pt_BR" />
+
+</div>
+
+## ◆ Formação
+
+- 🎓 Pós-graduação em **Engenharia de Software**
 - 🤖 Pós-graduação em **Inteligência Artificial**
 - ☁️ **Java & AWS Developer** — Digital Innovation One
-- ☕ **Java POO** — Udemy
-- 🌐 **HTML5 Web Developer** — DIO
-
----
-
-<div align="center">
-
-### 🌎 Idiomas
-**Português** — Nativo &nbsp;•&nbsp; **Inglês** — Avançado
 
 <br/>
 
-> *"Arquitetura limpa, código que se sustenta e sistemas que não caem."*
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0b1e,100:4f46e5&height=100&section=footer" width="100%" />
+*Arquitetura limpa, código que se sustenta e sistemas que não caem.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4f46e5,50:1e1b4b,100:0b1020&height=4&section=footer" width="100%" />
 
 </div>
